@@ -7,20 +7,14 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            'TEST INTEGRATE DEPLOY REPEAT'
+tagline:          'QA Automation, Continuous Integration & Delivery'
+description:      'Best Practices for developing Android, iOS, Windows Phone and Web applications by <a href="https://twitter.com/alexander_ilyin" target="_blank">@alexander_ilyin</a>'
+url:              http://alexander.ilyin.eu
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Alexander Ilyin'
+  url:            https://twitter.com/alexander_ilyin
 
 paginate:         5
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde

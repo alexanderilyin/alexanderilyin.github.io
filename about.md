@@ -1,30 +1,53 @@
 ---
 layout: page
-title: About
+title: Tools
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Automation
+----------
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+* [TeamCity](http://www.jetbrains.com/teamcity)
+* [Gradle](http://www.gradle.org)
 
-There are currently two themes built on Poole:
+Dependencies Management
+-----------------------
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* [Composer](https://getcomposer.org) `PHP`
 
-Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Setup
+Deployment
+----------
 
-Some fun facts about the setup of this project include:
+* [Capistrano](http://capistranorb.com)
+* [Mina](http://nadarei.co/mina/)
+* [Fabric](http://www.fabfile.org)
+* Grunt
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+Testing
+-------
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+* [Behat](http://behat.org) `PHP`
 
-Thanks for reading!
+Analyzing 
+---------
+
+* [TestFairy](http://testfairy.com) `Android`
+* [HockeyApp](http://hockeyapp.net) `iOS` `Android` `Windows Phone` `Mac OS`
+
+Virtualization
+--------------
+
+* [Docker](https://www.docker.com)
+* [Vagrant](https://www.vagrantup.com)
+* [VirtualBox](https://www.virtualbox.org)
+
+Documentation
+-------------
+
+* [Jekyll](http://jekyllrb.com)
+
+Utilities
+---------
+
+* [localtunnel.me](http://localtunnel.me)
+* [logstash](http://logstash.net)
