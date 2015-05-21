@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            'TEST INTEGRATE DEPLOY REPEAT'
+title:            'ROCKET SCIENCE'
 tagline:          'QA Automation, Continuous Integration & Delivery'
-description:      'Best Practices for developing Android, iOS, Windows Phone and Web applications by <a href="https://twitter.com/alexander_ilyin" target="_blank">@alexander_ilyin</a>'
+description:      'DEPLOYMENT TIME</br>WITH FAILS & FUCKUPS'
 url:              http://alexander.ilyin.eu
 baseurl:          /
 
