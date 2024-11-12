@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            'ROCKET SCIENCE'
 tagline:          'QA Automation, Continuous Integration & Delivery'
-description:      'DEPLOYMENT TIME</br>WITH FAILS & FUCKUPS'
+description:      'DEPLOYMENT TIME'
 url:              http://alexander.ilyin.eu
 baseurl:          /
 
